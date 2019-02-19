@@ -6,7 +6,7 @@ int main(){
     cout<<"Heyaaaaaaa!";
     endl;
     cout<<"Wazaaaaaaa??";
-
+    cout<<"okuuuuuuuuuuuuuuuur :P";
 
     return 0;
 }
